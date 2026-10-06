@@ -1,0 +1,89 @@
+{
+  "reviewed_at": "2026-10-06T16:46:10.645531+00:00",
+  "sources": [
+    {
+      "repository": "brandondube/prysm",
+      "url": "https://github.com/brandondube/prysm",
+      "commit": "5008f47803af6ff69eed474fca049456076e4a7d",
+      "commit_date": "2026-07-26T02:06:10Z",
+      "activity": "geometry,segmented: use signed distance functions to draw segment apertures and composite",
+      "pushed_at": "2026-07-26T02:06:40Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_url": "https://raw.githubusercontent.com/brandondube/prysm/5008f47803af6ff69eed474fca049456076e4a7d/LICENSE.md",
+      "license_file": "licenses/brandondube_prysm.txt"
+    },
+    {
+      "repository": "scipy/scipy",
+      "url": "https://github.com/scipy/scipy",
+      "commit": "1b7b90b929f6f359436427d472c25c05f395789a",
+      "commit_date": "2026-10-06T16:22:54Z",
+      "activity": "ENH: special: use Jacobi polynomials from XSF (#26326)",
+      "pushed_at": "2026-10-06T16:22:54Z",
+      "archived": false,
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "license_url": "https://raw.githubusercontent.com/scipy/scipy/1b7b90b929f6f359436427d472c25c05f395789a/LICENSE.txt",
+      "license_file": "licenses/scipy_scipy.txt"
+    },
+    {
+      "repository": "numpy/numpy",
+      "url": "https://github.com/numpy/numpy",
+      "commit": "465fc3003ed5e128a8028c0884befdd4a24f40b1",
+      "commit_date": "2026-10-06T16:23:24Z",
+      "activity": "TYP: ``eye``, ``tri``, ``tri{u,l}_indices``: accept numpy integers (#32905)",
+      "pushed_at": "2026-10-06T16:42:19Z",
+      "archived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "license_url": "https://raw.githubusercontent.com/numpy/numpy/465fc3003ed5e128a8028c0884befdd4a24f40b1/LICENSE.txt",
+      "license_file": "licenses/numpy_numpy.txt"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "url": "https://github.com/matplotlib/matplotlib",
+      "commit": "e8eebffcc49cce378ef0851c1d3c59e9d36b2130",
+      "commit_date": "2026-10-06T10:52:09Z",
+      "activity": "Remove print() from test_agg_filter_alpha (#32439)",
+      "pushed_at": "2026-10-06T16:31:59Z",
+      "archived": false,
+      "license": null,
+      "license_url": "https://raw.githubusercontent.com/matplotlib/matplotlib/e8eebffcc49cce378ef0851c1d3c59e9d36b2130/LICENSE/LICENSE",
+      "license_file": "licenses/matplotlib_matplotlib.txt"
+    },
+    {
+      "repository": "ahmetalpkilic/heteroscedastic-clock-optical-timing-learning-lab",
+      "url": "https://github.com/ahmetalpkilic/heteroscedastic-clock-optical-timing-learning-lab",
+      "commit": "36dbdf5ec4d19a5002a2d2f05905ef202a735950",
+      "commit_date": "2026-10-05T19:32:49Z",
+      "activity": "Add event-dependent clock covariance and optical timing lesson",
+      "pushed_at": "2026-10-05T19:32:53Z",
+      "archived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_url": "https://raw.githubusercontent.com/ahmetalpkilic/heteroscedastic-clock-optical-timing-learning-lab/36dbdf5ec4d19a5002a2d2f05905ef202a735950/LICENSE",
+      "license_file": "licenses/ahmetalpkilic_heteroscedastic-clock-optical-timing-learning-lab.txt"
+    }
+  ]
+}

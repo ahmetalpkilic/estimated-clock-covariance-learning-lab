@@ -1,0 +1,137 @@
+{
+  "seed": 20261006,
+  "trials": 800,
+  "events": 40,
+  "heterogeneity": 8,
+  "shrinkage": 0.25,
+  "sigma_px": 0.35014087480216977,
+  "center_sd_px": 0.0002616867833663492,
+  "true_delay_ms": 40.0,
+  "noiseless_delay_ms": 40.00000043505647,
+  "experiment": [
+    {
+      "repeats_per_event": 4,
+      "relative_variance_mse": 0.6629404098407276,
+      "wishart_prediction": 0.6666666666666666,
+      "oracle": {
+        "bias_ms": -1.0335168381247362,
+        "sd_ms": 21.58357953853488,
+        "rmse_ms": 21.594831537171775,
+        "mean_error_mcse_ms": 0.7630947726988614,
+        "p95_absolute_error_ms": 42.98064531369896,
+        "successful_trials": 800
+      },
+      "estimated": {
+        "bias_ms": -0.5315496993572604,
+        "sd_ms": 34.62019629221327,
+        "rmse_ms": 34.602634854951795,
+        "mean_error_mcse_ms": 1.2240087782116686,
+        "p95_absolute_error_ms": 66.91227120181551,
+        "successful_trials": 800,
+        "failed_trials": 0
+      },
+      "shrunk": {
+        "bias_ms": 0.4374007982947806,
+        "sd_ms": 27.818282146327807,
+        "rmse_ms": 27.80433095767786,
+        "mean_error_mcse_ms": 0.9835247973314528,
+        "p95_absolute_error_ms": 55.21741405594742,
+        "successful_trials": 800,
+        "failed_trials": 0
+      }
+    },
+    {
+      "repeats_per_event": 8,
+      "relative_variance_mse": 0.28882616480740786,
+      "wishart_prediction": 0.2857142857142857,
+      "oracle": {
+        "bias_ms": -1.0335168381247362,
+        "sd_ms": 21.58357953853488,
+        "rmse_ms": 21.594831537171775,
+        "mean_error_mcse_ms": 0.7630947726988614,
+        "p95_absolute_error_ms": 42.98064531369896,
+        "successful_trials": 800
+      },
+      "estimated": {
+        "bias_ms": -1.1724912193540398,
+        "sd_ms": 25.255555306655538,
+        "rmse_ms": 25.26698449884136,
+        "mean_error_mcse_ms": 0.8929187209984013,
+        "p95_absolute_error_ms": 49.26443436941929,
+        "successful_trials": 800,
+        "failed_trials": 0
+      },
+      "shrunk": {
+        "bias_ms": -0.5821889964552414,
+        "sd_ms": 23.679919581630802,
+        "rmse_ms": 23.672275179645382,
+        "mean_error_mcse_ms": 0.8372115857061626,
+        "p95_absolute_error_ms": 45.91941268026919,
+        "successful_trials": 800,
+        "failed_trials": 0
+      }
+    },
+    {
+      "repeats_per_event": 32,
+      "relative_variance_mse": 0.06496397920591358,
+      "wishart_prediction": 0.06451612903225806,
+      "oracle": {
+        "bias_ms": -1.0335168381247362,
+        "sd_ms": 21.58357953853488,
+        "rmse_ms": 21.594831537171775,
+        "mean_error_mcse_ms": 0.7630947726988614,
+        "p95_absolute_error_ms": 42.98064531369896,
+        "successful_trials": 800
+      },
+      "estimated": {
+        "bias_ms": -0.4977171147009111,
+        "sd_ms": 22.090613004320407,
+        "rmse_ms": 22.082411807913616,
+        "mean_error_mcse_ms": 0.7810211127961345,
+        "p95_absolute_error_ms": 42.421958403150136,
+        "successful_trials": 800,
+        "failed_trials": 0
+      },
+      "shrunk": {
+        "bias_ms": -0.21414280412572478,
+        "sd_ms": 21.87754803977462,
+        "rmse_ms": 21.86491896824487,
+        "mean_error_mcse_ms": 0.7734881287329547,
+        "p95_absolute_error_ms": 42.2794835232623,
+        "successful_trials": 800,
+        "failed_trials": 0
+      }
+    },
+    {
+      "repeats_per_event": 128,
+      "relative_variance_mse": 0.015552442379735965,
+      "wishart_prediction": 0.015748031496062992,
+      "oracle": {
+        "bias_ms": -1.0335168381247362,
+        "sd_ms": 21.58357953853488,
+        "rmse_ms": 21.594831537171775,
+        "mean_error_mcse_ms": 0.7630947726988614,
+        "p95_absolute_error_ms": 42.98064531369896,
+        "successful_trials": 800
+      },
+      "estimated": {
+        "bias_ms": -0.9444903075353117,
+        "sd_ms": 21.644730418971093,
+        "rmse_ms": 21.651808213341518,
+        "mean_error_mcse_ms": 0.7652567828104601,
+        "p95_absolute_error_ms": 41.51519378319384,
+        "successful_trials": 800,
+        "failed_trials": 0
+      },
+      "shrunk": {
+        "bias_ms": -0.6406221391417896,
+        "sd_ms": 21.61787589559392,
+        "rmse_ms": 21.613856418155983,
+        "mean_error_mcse_ms": 0.7643073320311834,
+        "p95_absolute_error_ms": 42.81819421608991,
+        "successful_trials": 800,
+        "failed_trials": 0
+      }
+    }
+  ]
+}
